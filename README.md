@@ -241,5 +241,5 @@ customer-churn-project/
 ## 15. Author
 
 **Karuna Kumari**
-Aspiring Data / Business Analyst
-[LinkedIn](ADD-YOUR-LINKEDIN-URL) · [Email](mailto:ADD-YOUR-EMAIL) · [GitHub](https://github.com/Karuna9502)
+Data / Business Analyst
+[LinkedIn](www.linkedin.com/in/karuna-kumari-analyst) · [Email](mailto:karunakumari0231@gmail.com) · [GitHub](https://github.com/Karuna9502)
